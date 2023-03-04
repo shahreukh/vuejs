@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "about":"Who Are We",
+    "reference":"Reference Projects",
+    "contact":"Communication",
+    "feature":"Features",
+    "slogan":"Have you met WeeRobot?",
+    "lang":"Language"
+},
+"form":{
+  "name":"Name",
+  "surname":"Last Name",
+  "tel":"Phone Number",
+  "mail":"Email Address",
+  "msg":"Your Message",
+  "submit":"Submit",
+  "formControl":{
+    "WarningTitle":"Incorrect operation",
+    "warning1":"Name field cannot be empty",
+    "warning2":"Surname field cannot be empty",
+    "warning3":"Phone field cannot be empty",
+    "warning4":"Mail field cannot be empty",
+    "warning5":"Message field cannot be empty",
+    "warning6":"Invalid phone number",
+    "warning7":"Invalid e-mail address",
+    "SuccessTitle":"Transaction Successful",
+    "suucess":"Your message has been sent successfully"
+  }
+
+},
+"whoareWee":{
+  "bannerTitle":"AN AI WONDERFUL : WEEROBOT",
+  "bannerText1":"Would you like to use state-of-the-art bot software that will revolutionize the entire cryptocurrency market?",
+  "bannerText2":"What if it was possible to get rid of complex calculations and analyzes that would take hours?",
+  "bannerText3":"Did you know that you can earn more with less risk with the walking Stop-Loss feature?",
+  "bannerText4":"Wouldn't you like to follow the most successful users step by step and be one of the winners like them?",
+  "title1":"Unlike other stock market bots, WeeRobot doesn't limit you to just making a few specific trades.",
+  "text1":" For example, you have $100 in your account and you ordered your smart bot to track a certain cryptocurrency and buy it if it drops to the level you want. While the bots used on all other cryptocurrency exchanges allow you to lock your initial $100 and follow a single coin, WeeRobot does not force you to such restrictions. It tracks as many coins as you want at the same time, but gives the buy-sell order when you reach the most profitable level.",
+  "title2":"Do you know the big winning features of WeeRobot?",
+  "text2":"WeeRobot, Automated Transactions, where all transactions are carried out with the help of advanced artificial intelligence, Manual Transactions, where you determine the strategy made by WeRobot, the repetitive earnings system with the Ping-Pong feature, the possibility of following successful users with Social Trade, the ability to minimize the loss with the Stop-Loss feature and even more. more than enough to the service of you users.",
+  "title3":"Are You Ready To Win?",
+  "text3":"WeeRobot offers you many lucrative strategies, prepared separately for different situations. Thus, whether the crypto market is on the rise or falling, you will always be the winner. As you can perform all operations automatically, you can also follow your own strategies based on WeeRobot's own analysis."
+},
+"feature":{
+"bannerTitle":"WeeRobot's Smart Strategies",
+"bannerText1":"WeeRobot follows the latest technologies in the world.",
+"bannerText2":"It creates the most profitable strategies for you by analyzing the latest developments in the entire crypto market with the help of artificial intelligence.",
+"bannerTitle3":"In this way, you can achieve maximum profit with minimum risk.",
+"PingPong":{
+    "title1":"Ping-Pong Transactions",
+    "text1":"In this system, the user notifies WeeRobot of the tracking order for the coin or coins they want to follow, and the profit percentage they want to obtain. After this order, WeeRobot performs the same operation again and again when the number determined by the user is repeated, if the desired conditions are met after this order.!"
+},
+"Otomatik":{
+  "title":"Automatic Transactions",
+  "text1":"WeeRobot monitors the entire crypto market for you. After analyzing the data from 18 different indicators and oscillators of all cryptocurrencies, especially Bitcoin, with the help of artificial intelligence, it produces a strategy for the highest profitability.",
+  "text2":"At the same time, thanks to the Walking Stop Loss feature, while maximizing the possible profit, it minimizes the loss... Thus, you gain more and lose less."
+  
+},
+"Manuel":{
+  "title":"Manual Operations",
+  "text2":"You can place both buy and sell orders at the same time for the number and type of coins you want, at the levels you specify. Thus, you do not need to follow the graphic movements of the coin you are trading at any time of the day.",
+  "text3":"You can place both buy and sell orders at the same time for the number and type of coins you want, at the levels you specify. Thus, you do not need to follow the graphic movements of the coin you are trading at any time of the day.",
+  "text4":"You can multiply your earnings by repeating all these operations as many times as you want.",
+  "text5":"Moreover, you can control your loss with the Stop-Loss feature."
+},
+"sosyaltrade":{
+  "title1":"Social Trade",
+  "text1":"In this system, the user can monitor which user earns how much.",
+  "text2":"If he wants to know what he did and how he achieved this profit, he sends a follow request to that user.",
+  "text3":"If the follow request is accepted, WeeRobot automatically performs the actions of that user for you and you will take your place in the winners club."
+},
+"teknikTrade":{
+  "title":"Technical Trade",
+  "text1":"Let WeeRobot analyze and you stay in control!",
+  "text2":"Use WeeRobot to analyze according to the indicators you specify.",
+  "text3":"Then create your own strategy with the data you get, win with your own rules!"
+}
+},
+"contact":{
+"bannerTitle":"Contact",
+"bannerText":"For technical support and questions, please contact us.",
+"title":"Contact us"
+},
+"footer":{
+  "title":"Social Media"
+},
+"slider":{
+  "title1":"Winners Use WeeRobot",
+  "title2":"Your Money in Your Own Account on Binance",
+  "title3":"Enjoy Yourself Let Weerobot Work For You",
+  "title4":"Let Your Earning Period Begin in the Stock Exchange"
+},
+"features":{
+"title":"Features",
+  "card1":{
+    "title":"Automatic Transactions",
+    "subtitle":"Get Started Now",
+    "text":"WeeRobot monitors the entire crypto market for you. After analyzing the data of all cryptocurrencies, especially Bitcoin, from 18 different indicators and oscillators with the help of artificial intelligence, it produces a strategy for the highest profitability. At the same time, thanks to the Walking Stop Loss feature, it maximizes the possible profit and minimizes the loss... Thus, you gain more and lose less."
+  },
+  "card2":{
+    "title":"Ping-Pong Transactions",
+    "subtitle":"Get Started Now",
+    "text":"In this system, the user notifies WeeRobot of the tracking order for the coin or coins they want to follow, and the profit percentage they want to obtain. After this order, WeeRobot performs the same operation again and again when the number determined by the user is repeated, if the desired conditions are met after this order!"
+  },
+  "card3":{
+    "title":"Manual Operations",
+    "subtitle":"Get Started Now",
+    "text":"You can place both buy and sell orders at the same time for the number and type of coins you want, at the levels you specify. Thus, you do not need to follow the graphic movements of the coin you are trading at all hours of the day. Without locking the balance in your account for any transaction , you can enter a sell order even for the coins you have not given a buy order . In this way, you will not miss other opportunities and you can evaluate all opportunities. You can multiply your earnings by repeating all these operations as many times as you want. Moreover, you can control your loss with the Stop-Loss feature."
+  },
+  "card4":{
+    "title":"Social Trade",
+    "subtitle":"Get Started Now",
+    "text":"In this system, the user can monitor which user earns how much. If he wants to know what he did and how he achieved this profit, he sends a follow request to that user. If the follow request is accepted, WeeRobot automatically performs the actions of that user for you and you will take your place in the winners club."
+  }
+} ,
+
+"backoffice":{
+"title":"Join Backoffice",
+"subtitle":"So How?",
+"text":"Start enjoying the benefits of WeeRobot by registering with BackOffis."
+},
+"tab":{
+  "title1":"Spot Buy Signals",
+  "title2":"Top Paying Coins in the Last 24 Hours",
+   "subtitle1":"15 Minutes",
+   "subtitle2":"1 Hour",
+   "subtitle3":"4 Hours",
+    "table":{
+      "title1":"Coin Name",
+      "title2":"Final Price",
+      "title3":"Buying",
+      "title4":"Sales",
+      "title5":"Notr",
+      "title6":"Profit Rate",
+      "title7":"Date Of Update",
+      "title8":"Status",
+      "title9":"Process",
+      "title10":"Purchase Date",
+      "title11":"Closing Date",
+      "title12":"Open",
+      "title13":"Closed",
+      "title14":"Purchase Price",
+      "title15":"Sale Price",
+      "title16":"Items per page",
+         "status":{
+          "strongBuy" :"Buy Strong",
+          "buy":"Buy",
+          "neutral":"Nötr",
+          "sell":"Sell",
+          "strongSel":"Strong Sell"  
+      }
+    },
+    "title3": "Futures Buy Signals"
+}
+
+}

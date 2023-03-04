@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "about":"Biz Kimiz",
+    "reference":"Referans Projeler",
+    "contact":"İletişim",
+     "feature":"Özellikler",
+     "slogan":"WeeRobot ile tanıştınız mı ?",
+      "lang":"Dil"
+},
+"form":{
+    "name":"İsim",
+    "surname":"Soyisim",
+    "tel":"Telefon Numarası",
+    "mail":"Mail Adresi",
+    "msg":"Mesajınız",
+    "submit":"Gönder",
+    "search":"Ara",
+    "formControl":{
+      "WarningTitle":"Hatalı İşlem",
+      "warning1":"İsim alanı boş geçilmez",
+      "warning2":"Soyisim alanı boş geçilmez",
+      "warning3":"Telefon alanı boş geçilmez",
+      "warning4":"Mail alanı boş geçilmez",
+      "warning5":"Mesaj alanı boş geçilmez",
+      "warning6":"Geçersiz telefon numarası",
+      "warning7":"Geçersiz mail adresi",
+      "SuccessTitle":"İşlem Başarılı",
+      "suucess":"Mesajınız başarıyla gönderildi"
+    }
+},
+"whoareWee":{
+    "bannerTitle":"BİR YAPAY ZEKA HARİKASI : WEEROBOT",
+    "bannerText1":"Tüm kripto para piyasını kökünden değiştirecek en son teknoloji bot yazılımını kullanmak ister miydiniz ?",
+    "bannerText2":"Peki ya saatlerinizi alacak karmaşık hesaplamalardan,analizlerden kurtulmak mümkün olsaydı?",
+    "bannerText3":"Yürüyen Stop-Loss özelliği ile daha fazlasını daha az riskle kazanabileceğinizi biliyor muydunuz?",
+    "bannerText4":"En başarılı kullanıcıları adım adım takip edip siz de onlar gibi kazananlardan olmak istemez misiniz?",
+    "title1":"WeeRobot diğer borsa botlarının aksine sizi sadece belirli birkaç işlem yapmakla sınırlandırmaz",
+    "text1":"Örneğin hesabınızda 100 dolarınız var ve siz akıllı botunuza belirli bir kripto paranın takibi ve bu paranın istediğiniz seviyeye düşmesi halinde alımı emrini verdiniz. Diğer tüm kripto para borsalarında kullanılan botlar sizin başlangıçtaki 100 dolarınızı kilitleyip tek bir coinin takibini yapmanıza izin verirken,WeeRobot sizi bu gibi kısıtlamalara zorlamaz.İstediğiniz sayıda coini aynı anda takip eder,ancak en karlı seviyeye ulaştığınızda alım-satım emrini verir.",
+    "title2":"WeeRobot'un çok kazandıran özelliklerini biliyor musunuz?",
+    "text2":"WeeRobot,tüm işlemlerin gelişmiş yapay zeka yardımıyla gerçekleştirildiği Otomatik İşlemler,analizi WeRobot'un yaptığı stratejiyi sizin belirledeğiniz Manuel İşlemler,Ping-Pong özelliğiyle tekrarlı kazanç sistemi,Sosyal Trade ile başarılı kullanıcıları takip edebilme imkanı,Stop-Loss özelliğiyle kaybı minimuma indirebilme ve daha da fazlasıyla siz kullanıcıların hizmetine sunulmuştur.",
+    "title3":"Kazanmaya Hazır Mısın ?",
+    "text3":"WeeRobot birbirinden farklı durumlar için ayrı ayrı hazırlanmış birçok kazançlı stratejiyi sizlerin kullanımına sunar.Böylelikle kripto piyasası ister düşüş,isterse yükselişte olsun;kazanan daima siz olursunuz. Tüm işlemleri otomatik gerçekleştirebileceğiniz gibi,WeeRobot'un kendi yaptığı analizlerden yola çıkarak kendi stratejilerinizi de takip edebilirsiniz."
+},
+"feature":{
+  "bannerTitle":"WeeRobot 'un Akıllı Stratejileri",
+  "bannerText1":"WeeRobot dünyadaki en son teknolojileri takip eder.",
+  "bannerText2":"Tüm kripto piysadaki en son gelişmeleri içerisinde bulundurduğu yapay zeka yardımıyla analiz ederek sizler için en kazançlı stratejileri oluşturur.",
+  "bannerTitle3":"Böylelikle minimum riskle maksimum kazanca ulaşırsınız.",
+  "PingPong":{
+      "title1":"Ping-Pong İşlemler",
+      "text1":"Bu sistemde kullanıcı takip etmek istediği coin yada coinler için takip emrini ve elde etmek isteği kar yüzdesini WeeRobot'a bildirir.Bu emirden sonra WeeRobot,istenilen koşullar gerçekleşirse eğer,yine kullanıcının belirlediği sayı tekrarınca aynı işlemi tekrar tekrar gerçekleştirir.Küçük küçük kazanır,sürekli kazanırsınız!"
+  },
+  "Otomatik":{
+    "title":"Otomatik İşlemler",
+    "text1":"WeeRobot tüm kripto piyasayı sizler için izler.Bitcoin başta olmak üzere tüm kripto paraların 18 farklı indikatör ve osilatörden gelen verilerini yapay zeka yardımıyla analiz ettikten sonra,en yüksek karlılık için bir strateji üretir.",
+    "text2":"Aynı zamanda Yürüyen Stop Loss özelliği sayesinde olası karı maksimize ederken zararı minumuma indirir... Böylece daha fazla kazanır daha az zarar edersiniz."
+    
+  },
+  "Manuel":{
+    "title":"Manuel İşlemler",
+    "text2":"İstediğiniz sayı ve çeşitte coin için aynı anda hem alış hem de satış emrini sizin belirleyeceğiniz seviyelerden verebilirsiniz.Böylece günün her saati işlem yaptığınız coinin grafik hareketlerini takip etmenize gerek kalmaz.",
+    "text3":"Heabınızdaki bakiyeyi herhangi bir işlem için kilitlemeden , alış emri vermediğiniz coinler için dahi satış emri girebilirsiniz . Bu sayede diğer başka fırsatları kaçırmaz , tüm fırsatları değerlendirebilirsiniz.",
+    "text4":"Tüm bu işlemleri istediğiniz sayıda tekrar ederek kazancınızı katlayabilirsiniz.",
+    "text5":"Üstelik Stop-Loss özelliği ile zararınızı kontrol altına alabilirsiniz."
+  },
+  "sosyaltrade":{
+    "title1":"Sosyal Trade",
+    "text1":"Bu sistemde kullanıcı hangi kullanıcının ne kadar kazandığını izleyebilir.",
+    "text2":"Yaptığını,bu kazanca nasıl ulaştığını öğrenmek isterse,o kullanıcıya takip isteği atar.",
+    "text3":"Takip isteğinin kabul edilmesi durumunda WeeRobot sizin için o kullanıcın yaptığı işlemleri otomatik olarak yapar ve siz de kazananlar klübünde yerinizi alırsınız."
+  },
+  "teknikTrade":{
+    "title":"Tekniki Trade",
+    "text1":"WeeRobot analiz etsin,kontrol siz de kalsın!",
+    "text2":"WeeRobot'u sizin belirlediğiniz indikatörlere göre analiz yapması için kullanın.",
+    "text3":"Daha sonra elde ettiğiniz veriler ile kendi stratejinizi oluşturun,kendi kurallarınızla kazanın!"
+  }
+},
+"contact":{
+  "bannerTitle":"İletişim",
+  "bannerText":"Teknik destek ve sorularınız için lütfen bizimle iletişime geçin.",
+  "title":"Bize Ulaşın"
+},
+
+"footer":{
+  "title":"Sosyal Medya"
+},
+
+"slider":{
+    "title1":"Kazananlar WeeRobotu Kullanıyor",
+    "title2":"Paranız Binance'da Kendi Hesabınızda",
+    "title3":"Sen Keyfine Bak Weerobot Senin Yerine Çalışsın",
+    "title4":"Borsada Kazanç Devriniz Başlasın"
+},
+"features":{
+  "title":"Özellikler",
+    "card1":{
+      "title":"Otomatik İşlemler",
+      "subtitle":"Hemen Kullanmaya Başla",
+      "text":"WeeRobot tüm kripto piyasayı sizler için izler.Bitcoin başta olmak üzere tüm kripto paraların 18 farklı indikatör ve osilatörden gelen verilerini yapay zeka yardımıyla analiz ettikten sonra,en yüksek karlılık için bir strateji üretir. Aynı zamanda Yürüyen Stop Loss özelliği sayesinde olası karı maksimize ederken zararı minumuma indirir... Böylece daha fazla kazanır daha az zarar edersiniz."
+    },
+    "card2":{
+      "title":"Ping-Pong İşlemler",
+      "subtitle":"Hemen Kullanmaya Başla",
+      "text":"Bu sistemde kullanıcı takip etmek istediği coin yada coinler için takip emrini ve elde etmek isteği kar yüzdesini WeeRobot'a bildirir.Bu emirden sonra WeeRobot,istenilen koşullar gerçekleşirse eğer,yine kullanıcının belirlediği sayı tekrarınca aynı işlemi tekrar tekrar gerçekleştirir.Küçük küçük kazanır,sürekli kazanırsınız!"
+    },
+    "card3":{
+      "title":"Manuel İşlemler",
+      "subtitle":"Hemen Kullanmaya Başla",
+      "text":"İstediğiniz sayı ve çeşitte coin için aynı anda hem alış hem de satış emrini sizin belirleyeceğiniz seviyelerden verebilirsiniz.Böylece günün her saati işlem yaptığınız coinin grafik hareketlerini takip etmenize gerek kalmaz. Heabınızdaki bakiyeyi herhangi bir işlem için kilitlemeden , alış emri vermediğiniz coinler için dahi satış emri girebilirsiniz . Bu sayede diğer başka fırsatları kaçırmaz , tüm fırsatları değerlendirebilirsiniz. Tüm bu işlemleri istediğiniz sayıda tekrar ederek kazancınızı katlayabilirsiniz. Üstelik Stop-Loss özelliği ile zararınızı kontrol altına alabilirsiniz."
+    },
+    "card4":{
+      "title":"Sosyal Trade",
+      "subtitle":"Hemen Kullanmaya Başla",
+      "text":"Bu sistemde kullanıcı hangi kullanıcının ne kadar kazandığını izleyebilir. Yaptığını,bu kazanca nasıl ulaştığını öğrenmek isterse,o kullanıcıya takip isteği atar. Takip isteğinin kabul edilmesi durumunda WeeRobot sizin için o kullanıcın yaptığı işlemleri otomatik olarak yapar ve siz de kazananlar klübünde yerinizi alırsınız."
+    }
+} ,
+
+"backoffice":{
+  "title":"Backoffice ' e Dahil Ol",
+  "subtitle":"Peki Nasıl ?",
+  "text":"BackOffis 'e kayıt olarak WeeRobot 'un avantajlarından faydalanmaya başlayın."
+},
+
+"tab":{
+  "title1":"Spot Alış Sinyaller",
+  "title2":"Son 24 Saat İçerisinde En Çok Kazandıran Coinler",
+   "subtitle1":"15 Dakika",
+   "subtitle2":"1 Saat",
+   "subtitle3":"4 Saat",
+    "table":{
+      "title1":"Coin Adı",
+      "title2":"Son Fiyat",
+      "title3":"Alış",
+      "title4":"Satış",
+      "title5":"Notr",
+      "title6":"Kar Oranı",
+      "title7":"Güncelleme Tarihi",
+      "title8":"Durum",
+      "title9":"İşlem",
+      "title10":"Alış Tarihi",
+      "title11":"Kapanış Tarihi",
+      "title12":"Açık",
+      "title13":"Kapalı",
+      "title14":"Alış Fiyatı",
+      "title15":"Satış/Halen Fiyatı",
+      "title16":"Sayfa başına öğe",
+      "status":{
+          "strongBuy" :"Güçlü Al",
+          "buy":"Al",
+          "neutral":"Nötr",
+          "sell":"Sat",
+          "strongSel":"Güçlü Sat"  
+      }
+    },
+    "title3": "Futures Alış Sinyaller"
+
+}
+  }
